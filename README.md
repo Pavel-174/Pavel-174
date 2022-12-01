@@ -1,7 +1,7 @@
 # *Hi, my name is Pavel.* :wave:
 ### *I`m front-end developer.* 
 
-! [Альтернативный текст] ([Ссылка на изображение](https://w7.pngwing.com/pngs/999/979/png-transparent-sticker-telegram-advertising-time-application-programming-interface-lazy-man-mammal-cat-like-mammal-dog-like-mammal.png)
+! [Альтернативный текст] (https://w7.pngwing.com/pngs/999/979/png-transparent-sticker-telegram-advertising-time-application-programming-interface-lazy-man-mammal-cat-like-mammal-dog-like-mammal.png)
 
 ## *__My skils:__*
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
