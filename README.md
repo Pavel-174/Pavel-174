@@ -14,9 +14,10 @@
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
 ## *__Contacts:__*
-[LinkedIn](www.linkedin.com/in/павел-алексеев “LinkedIn”)
 
-[Telegram](https://t.me/alekseevps93 “Telegram”)  
+[LinkedIn](https://www.linkedin.com/in/павел-алексеев/)
+
+[Telegram](https://t.me/alekseevps93/)  
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pavel-174)](https://github.com/Pavel-174/github-readme-stats)
