@@ -1,4 +1,4 @@
-# *Hi, my name is Pavel.*  
+# *Hi, my name is Pavel.* :wave:
 ### *I`m front-end developer.* 
 
 
