@@ -1,7 +1,7 @@
 # *Hi, my name is Pavel.* :wave:
 ### *I`m front-end developer.* 
 
-![avatar](/images/1.png)
+![avatar](/1.png)
 
 ## *__My skils:__*
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
