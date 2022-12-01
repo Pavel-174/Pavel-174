@@ -18,9 +18,9 @@
 
 ## *__Contacts:__*
 
-[LinkedIn](https://www.linkedin.com/in/павел-алексеев/)
+**[LinkedIn](https://www.linkedin.com/in/павел-алексеев/)**
 
-[Telegram](https://t.me/alekseevps93/)  
+**[Telegram](https://t.me/alekseevps93/)**
 
 ## *__Stats:__*
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pavel-174)](https://github.com/Pavel-174/github-readme-stats)
