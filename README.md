@@ -1,8 +1,8 @@
 # *Hi, my name is Pavel.* <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">
-### *I`m front-end developer.* :man_technologist: :technologist:
+### *I`m front-end developer.* :technologist:
 ![avatar](/1.png)
 
-## *__My skils:__*
+## :man_technologist: *__My skils:__*
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
