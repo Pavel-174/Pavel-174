@@ -1,4 +1,4 @@
-# *Hi, my name is Pavel.* :wave:
+# *Hi, my name is Pavel.* <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">
 ### *I`m front-end developer.* 
 
 ![avatar](/1.png)
