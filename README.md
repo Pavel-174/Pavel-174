@@ -21,7 +21,7 @@
 
 **[Telegram](https://t.me/alekseevps93/)**
 
-## *__Stats:__*
+## :chart_with_upwards_trend: *__Stats:__*
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pavel-174)](https://github.com/Pavel-174/github-readme-stats)
 
 ![](https://komarev.com/ghpvc/?username=Pavel-174)
