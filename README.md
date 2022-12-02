@@ -1,5 +1,5 @@
 # *Hi, my name is Pavel.* <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">
-### *I`m front-end developer.* :technologist:
+### *I`m front-end developer.* :laptop:
 ![avatar](/1.png)
 
 ## :man_technologist: *__My skils:__*
