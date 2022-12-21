@@ -24,6 +24,7 @@
 
 **[Telegram](https://t.me/alekseevps93/)**
 
+## :trophy: *__Achievements:__*
 <kbd>
   <img src="./APS.jpg" alt="diplom" width="200px"/>
 </kbd>
