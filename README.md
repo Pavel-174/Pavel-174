@@ -24,7 +24,9 @@
 
 **[Telegram](https://t.me/alekseevps93/)**
 
-<img src="./APS.jpg" alt="diplom" width="200px" border="1px solid"/>
+<kbd>
+  <img src="./APS.jpg" alt="diplom" width="200px"/>
+</kbd>
 
 ## :chart_with_upwards_trend: *__Stats:__*
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pavel-174)](https://github.com/Pavel-174/github-readme-stats)
