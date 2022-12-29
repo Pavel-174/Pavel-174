@@ -24,7 +24,7 @@
 
 **[Telegram](https://t.me/alekseevps93/)**
 
-**[Website]([https://t.me/alekseevps93/](https://pavel-alekseev.ru/))**
+**[Website](https://pavel-alekseev.ru/)**
 
 ## :trophy: *__Achievements:__*
 <kbd>
